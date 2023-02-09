@@ -1,2 +1,6 @@
-[front-matter](http://jekyllrb.com/docs/frontmatter/)
+---
+layout: post
+title: A new space.
+---
+
 # First post.
